@@ -1,0 +1,47 @@
+{
+  "pageTitle": "تحدي سورة الرحمن",
+  "components": [
+    {
+      "type": "icon",
+      "size": 40
+    },
+    {
+      "type": "text",
+      "style": "question",
+      "align": "center",
+      "content": "ما هي السورة التي تلقب بـ 'عروس القرآن'؟"
+    },
+    {
+      "type": "spacer",
+      "height": 16
+    },
+    {
+      "type": "button",
+      "text": "سورة يس",
+      "action": "check_wrong",
+      "value": "إجابة خاطئة! سورة يس تسمى قلب القرآن وليست عروس القرآن."
+    },
+    {
+      "type": "button",
+      "text": "سورة الرحمن",
+      "action": "check_correct",
+      "value": "أحسنت! سورة الرحمن هي عروس القرآن لجمال نسقها وفضلها."
+    },
+    {
+      "type": "button",
+      "text": "سورة الواقعة",
+      "action": "check_wrong",
+      "value": "إجابة خاطئة! سورة الواقعة تسمى سورة الغنى."
+    },
+    {
+      "type": "spacer",
+      "height": 20
+    },
+    {
+      "type": "card",
+      "title": "فائدة إيمانية",
+      "content": "عن علي رضي الله عنه قال: سمعت رسول الله ﷺ يقول: 'لكل شيء عروس، وعروس القرآن الرحمن'.",
+      "reference": "رواه البيهقي في شعب الإيمان"
+    }
+  ]
+]
