@@ -1,19 +1,25 @@
 {
-  "pageTitle": "تحدي سورة الرحمن",
+  "pageTitle": "تحدي المعلومات القرآنية ",
   "components": [
     {
       "type": "icon",
-      "size": 40
+      "size": 42
+    },
+    {
+      "type": "text",
+      "style": "step",
+      "align": "center",
+      "content": "السؤال الأول"
     },
     {
       "type": "text",
       "style": "question",
       "align": "center",
-      "content": "ما هي السورة التي تلقب بـ 'عروس القرآن'؟"
+      "content": "ما هي السورة التي تسمى 'عروس القرآن'؟"
     },
     {
       "type": "spacer",
-      "height": 16
+      "height": 10
     },
     {
       "type": "button",
@@ -25,7 +31,7 @@
       "type": "button",
       "text": "سورة الرحمن",
       "action": "check_correct",
-      "value": "أحسنت! سورة الرحمن هي عروس القرآن لجمال نسقها وفضلها."
+      "value": "أحسنت! سورة الرحمن هي عروس القرآن لجمال نظمها وفضلها."
     },
     {
       "type": "button",
@@ -35,12 +41,89 @@
     },
     {
       "type": "spacer",
-      "height": 20
+      "height": 26
+    },
+    {
+      "type": "text",
+      "style": "step",
+      "align": "center",
+      "content": "السؤال الثاني"
+    },
+    {
+      "type": "text",
+      "style": "question",
+      "align": "center",
+      "content": "ما هي أعظم آية في كتاب الله تعالى؟"
+    },
+    {
+      "type": "spacer",
+      "height": 10
+    },
+    {
+      "type": "button",
+      "text": "آية الكرسي",
+      "action": "check_correct",
+      "value": "بارك الله فيك! آية الكرسي هي أعظم آية في كتاب الله كما أخبر النبي ﷺ."
+    },
+    {
+      "type": "button",
+      "text": "آية الدَّيْن",
+      "action": "check_wrong",
+      "value": "إجابة خاطئة! آية الدَّيْن هي أطول آية في القرآن، ولكن أعظم آية هي آية الكرسي."
+    },
+    {
+      "type": "button",
+      "text": "آخر سورة البقرة",
+      "action": "check_wrong",
+      "value": "إجابة خاطئة! خواتيم البقرة لها فضل عظيم لكن أعظم آية هي آية الكرسي."
+    },
+    {
+      "type": "spacer",
+      "height": 26
+    },
+    {
+      "type": "text",
+      "style": "step",
+      "align": "center",
+      "content": "السؤال الثالث"
+    },
+    {
+      "type": "text",
+      "style": "question",
+      "align": "center",
+      "content": "كم عدد سور القرآن الكريم؟"
+    },
+    {
+      "type": "spacer",
+      "height": 10
+    },
+    {
+      "type": "button",
+      "text": "110 سور",
+      "action": "check_wrong",
+      "value": "إجابة خاطئة! عدد سور القرآن أكثر من ذلك."
+    },
+    {
+      "type": "button",
+      "text": "114 سورة",
+      "action": "check_correct",
+      "value": "أحسنت إجابة صحيحة! عدد سور القرآن الكريم 114 سورة كاملة."
+    },
+    {
+      "type": "button",
+      "text": "120 سورة",
+      "action": "check_wrong",
+      "value": "إجابة خاطئة! عدد سور القرآن 114 سورة."
+    },
+    {
+      "type": "spacer",
+      "height": 24
     },
     {
       "type": "card",
-      "title": "فائدة إيمانية",
-      "content": "عن علي رضي الله عنه قال: سمعت رسول الله ﷺ يقول: 'لكل شيء عروس، وعروس القرآن الرحمن'.",
-      "reference": "رواه البيهقي في شعب الإيمان"
+      "title": "فائدة إيمانية ",
+      "content": "قال رسول الله ﷺ: 'خيركم من تعلم القرآن وعلمه'. اجعل لك ورداً يومياً من تلاوة وتدبر كتاب الله.",
+      "reference": "صحيح البخاري"
     }
   ]
+}
