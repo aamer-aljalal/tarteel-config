@@ -1,0 +1,9 @@
+[
+  {
+    "id": "islamic_quiz",
+    "title": "المسابقات",
+    "route": "/islamic-quiz",
+    "icon": "quiz",
+    "isEnabled": true
+  }
+]
