@@ -67,7 +67,7 @@
     "title": "المسابقات",
     "route": "/islamic-quiz",
     "icon": "quiz",
-    "isEnabled": true
+    "isEnabled": false
   },
   {
     "id": "bookmarks",
