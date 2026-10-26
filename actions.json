@@ -4,7 +4,7 @@
     "title": "القرآن",
     "route": "/quran",
     "icon": "quran",
-    "isEnabled": false
+    "isEnabled": true
   },
       {
     "id": "habit_tracker",
